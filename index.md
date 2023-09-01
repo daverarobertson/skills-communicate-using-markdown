@@ -13,3 +13,6 @@ var myVar = "Hello, world!";
 ``` python
 print('Hello World')
 ```
+- [X] List syntax is required
+- [X] This item is complete
+- [X] This item is not complete
